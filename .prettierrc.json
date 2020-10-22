@@ -3,6 +3,5 @@
   "endOfLine": "lf",
   "trailingComma": "all",
   "singleQuote": true,
-  "jsxBracketSameLine": true,
   "arrowParens": "avoid"
 }
